@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb://localhost:27017/startup-ecosystem",
+    "jwtSecret": "startup_ecosystem_secret_key"
+}
